@@ -1,2 +1,2 @@
 # odin_project
-codebase for odin project journey
+codebase for my odin project journey
